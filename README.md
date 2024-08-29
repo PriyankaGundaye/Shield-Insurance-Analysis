@@ -3,6 +3,12 @@ Project Overview:
 
 Shield Insurance Company provides comprehensive coverage for individuals and businesses against various risks. As part of my internship, I’ve analyzed their performance data to extract insights to guide future strategic decisions.
 
+Tools Used:
+Power BI
+
+
+Dashboard Link: https://app.powerbi.com/view?r=eyJrIjoiNWYzMjFjYjAtMDRhMi00MGIzLWI2ZDgtMjUzNzVlYjE2MGNhIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
+
 Dashboard Breakdown:
 1. Overview: A snapshot of Shield Insurance’s overall performance.
 2. Sales Channel View: A comparison of Offline and Online sales methods.
